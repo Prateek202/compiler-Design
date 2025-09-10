@@ -62,3 +62,39 @@ int main() {
 
     return 0;
 }
+
+
+INPUT 1:
+
+Enter number of NFA states: 3
+Enter final state of NFA: 2
+
+Enter transitions (for each state and symbol, enter -1 to stop):
+From q0 on symbol 0: 1 -1
+From q0 on symbol 1: 2 -1
+From q1 on symbol 0: 2 -1
+From q1 on symbol 1: -1
+From q2 on symbol 0: -1
+From q2 on symbol 1: -1
+
+Input 2 :
+
+Enter number of NFA states: 3
+Enter final state of NFA: 1
+
+From q0 on symbol 0: 1 2 -1
+From q0 on symbol 1: 1 -1
+From q1 on symbol 0: -1
+From q1 on symbol 1: 2 -1
+From q2 on symbol 0: 2 -1
+From q2 on symbol 1: -1
+
+
+    Input 3
+Enter number of NFA states: 2
+Enter final state of NFA: 1
+
+From q0 on symbol 0: 1 -1
+From q0 on symbol 1: 1 -1
+From q1 on symbol 0: -1
+From q1 on symbol 1: 1 -1
