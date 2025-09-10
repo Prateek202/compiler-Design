@@ -1,0 +1,9 @@
+1.	Implementation of LEXICAL ANALYZER for IF STATEMENT
+2.	Implementation of LEXICAL ANALYZER for ARITHMETIC EXPRESSION
+3.	Construction of NFA from REGULAR EXPRESSION
+4.	Construction of DFA from NFA
+5.	Implementation of SHIFT REDUCE PARSING ALGORITHM
+6.	Implementation of OPERATOR PRECEDENCE PARSER
+7.	Implementation of RECURSIVE DESCENT PARSER
+8.	Implementation of CODE OPTIMIZATION TECHNIQUES
+9.	Implementation of CODE GENERATOR
